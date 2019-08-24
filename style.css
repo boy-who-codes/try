@@ -1,0 +1,40 @@
+ body{
+	margin: 0;
+	font-family: 'Quicksand', sans-serif;
+
+}
+.header{
+	background: url("https://t3.ftcdn.net/jpg/01/64/50/18/240_F_164501880_rWp7pwj6yPu4bhk34tMyOce88k5t9wTr.jpg");
+	width; 100%;
+	height: 500px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	image-resolution: 72dpi;
+	background-attachment:fixed;
+}
+.header h1{
+	position:absolute;
+	margin:auto;
+	top:30px;
+	bottom:0;
+	right:0;
+	left:0;
+	width:90%;
+	height:200px;
+	color:#fff;
+}
+h3,h4,h5,h6{
+	font-family: 'Quicksand', sans-serif;
+	margin-right:10px;
+	margin-left:10px;
+}
+footer{
+	background-color:#333;
+	color:#fff;
+	width;100%;
+	padding-top:20px;
+	padding-bottom:20px;
+	font-family: 'Quicksand', sans-serif;
+
+	
+}
